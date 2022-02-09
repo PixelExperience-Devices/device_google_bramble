@@ -29,4 +29,4 @@ else
     -include vendor/google_devices/$(TARGET_BOOTLOADER_BOARD_NAME)/proprietary/BoardConfigVendor.mk
 endif
 
-include device/google/bramble/BoardConfigLineage.mk
+include device/google/bramble/BoardConfigCustom.mk
